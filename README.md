@@ -26,7 +26,7 @@ These results demonstrate strong generalization and high-quality performance on 
 (You can add your deployment link here)
 
 **Live App:**  
-> [https://your-streamlit-app-link-here.com](https://drowsinessdetection-ttksktstjp9x2jjqrw5gjb.streamlit.app/)
+> [Check it out -> ](https://drowsinessdetection-ttksktstjp9x2jjqrw5gjb.streamlit.app/)
 
 ---
 
